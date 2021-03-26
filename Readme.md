@@ -14,7 +14,7 @@ Hello, welcome to my github. You could find some resources that useful for your 
 
 ### My Github Stats
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vegaangga&show_icons=true&theme=algolia&show_icons=true" />
+<img alt="vegaangga's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vegaangga&show_icons=true&theme=algolia&show_icons=true" />
 
 
 
