@@ -12,8 +12,15 @@ Hello, welcome to my github. You could find some resources that useful for your 
 [<img align="left" alt="vegaangga | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vegaangga | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+### My Github Stats
 
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=vegaangga&show_icons=true&theme=algolia&show_icons=true" />
+
+
+
+
+
+
 
 [twitter]: https://twitter.com/iamvenope
 [instagram]: https://instagram.com/ve.gaa
