@@ -4,8 +4,7 @@ Hello, welcome to my github. You could find some resources that useful for your 
 
 ## About me
 - I’m currently learning everything
-- I graduated from D2 - Pens IT
-- I continue my study in Polinema 
+- I graduated from D4 - Politeknik Negeri Malang 
 
 ### You could find me on:
 [<img align="left" alt="vegaangga | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
