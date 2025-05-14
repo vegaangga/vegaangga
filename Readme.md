@@ -31,9 +31,9 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vega&show_icons=true&theme=radical" alt="Vega's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=vegaangga&show_icons=true&theme=radical" alt="Vega's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vega&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vegaangga&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
